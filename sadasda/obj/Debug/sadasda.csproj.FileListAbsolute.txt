@@ -1,0 +1,14 @@
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\bin\Debug\sadasda.exe.config
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\bin\Debug\sadasda.exe
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\bin\Debug\sadasda.pdb
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.csproj.SuggestedBindingRedirects.cache
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.Form1.resources
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.Form2.resources
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.Properties.Resources.resources
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.csproj.GenerateResource.cache
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.exe
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.pdb
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.Form3.resources
+C:\Users\egork\OneDrive\Рабочий стол\1\sadasda\sadasda\obj\Debug\sadasda.Form4.resources
